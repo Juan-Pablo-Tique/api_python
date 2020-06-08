@@ -7,3 +7,7 @@ El token se coloca en la cabecera con:
 Authorization: Bearer "token del login"
 
 Es necesario el token para todos los servicios
+
+Datos de usuario admin
+correo: admin@test.com
+contraseña: Admin
